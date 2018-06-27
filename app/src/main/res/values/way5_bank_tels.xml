@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_phones">
+        <item>4008205555</item>
+        <item>95508</item>
+        <item>4008895558</item>
+        <item>4006695588</item>
+        <item>4006695566</item>
+        <item>4006695577</item>
+        <item>4008009888</item>
+        <item>4008200588</item>
+        <item>4008200588</item>
+        <item>4008208788</item>
+        <item>4008895561</item>
+        <item>4006695568</item>
+        <item>4006695599</item>
+        <item>95511</item>
+        <item>4007888888</item>
+        <item>4008111333</item>
+    </string-array>
+
+</resources>

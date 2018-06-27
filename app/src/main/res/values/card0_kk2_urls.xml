@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=12&apptype=sl--><!--minsheng-->
+    <string-array name="card_ny_kk_urls">
+        <item>https://eapply.abchina.com/onlinetrade/CreditcardsInfo/CardRequestion?ctypeid=352</item>
+        <item>https://eapply.abchina.com/onlinetrade/CreditcardsInfo/CardRequestion?ctypeid=352</item>
+        <item>https://eapply.abchina.com/onlinetrade/CreditcardsInfo/CardRequestion?ctypeid=352</item>
+        <item>https://eapply.abchina.com/onlinetrade/CreditcardsInfo/CardRequestion?ctypeid=352</item>
+        <item>https://eapply.abchina.com/onlinetrade/CreditcardsInfo/CardRequestion?ctypeid=352</item>
+    </string-array>
+
+    <string-array name="card_gs_kk_urls">
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp?serviceId=PBL200722&amp;transData=|1111</item>
+
+    </string-array>
+
+    <string-array name="card_zs_kk_urls">
+        <item>https://ccclub.cmbchina.com/CrdCardApply/LoginChannelSelect.aspx?cardsel=uc&amp;WT.mc_id=N17PCGW1065K456100ZH</item>
+        <item>https://ccclub.cmbchina.com/CrdCardApply/LoginChannelSelect.aspx?cardsel=8344&amp;WT.mc_id=N17PCGW1065K456100ZH</item>
+        <item>https://ccclub.cmbchina.com/CrdCardApply/LoginChannelSelect.aspx?cardsel=7508&amp;WT.mc_id=N17PCGW1065K456100ZH</item>
+        <item>https://ccclub.cmbchina.com/CrdCardApply/LoginChannelSelect.aspx?cardsel=1110&amp;WT.mc_id=N17PCGW1065K456100ZH</item>
+        <item>https://ccclub.cmbchina.com/CrdCardApply/LoginChannelSelect.aspx?cardsel=7530&amp;WT.mc_id=N17PCGW1065K456100ZH</item>
+    </string-array>
+    <string-array name="card_js_kk_urls">
+        <item>http://creditcard.ccb.com/cn/creditcard/apply/apply.html</item>
+        <item>http://creditcard.ccb.com/cn/creditcard/apply/standard_form.html?id=20100525_1274755549&amp;provId=1001&amp;cityId=1&amp;cardId=20100525_1274755549&amp;card_name=%E8%8A%AD%E6%AF%94%E7%BE%8E%E4%B8%BD%E4%BF%A1%E7%94%A8%E5%8D%A1&amp;SID=WEB</item>
+        <item>http://creditcard.ccb.com/cn/creditcard/apply/trans_form.html?id=20100523_1274580436&amp;provId=1001&amp;cityId=1&amp;cardId=20100523_1274580436&amp;card_name=%E9%BE%99%E5%8D%A1%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E4%B8%BB%E9%A2%98%E4%BF%A1%E7%94%A8%E5%8D%A1&amp;SID=WEB</item>
+        <item>http://creditcard.ccb.com/cn/creditcard/apply/cooperateform.html?id=20110828_1314517895&amp;amp;provId=1001&amp;cityId=1&amp;cardId=20110828_1314517895&amp;card_name=%E9%BE%99%E5%8D%A1%E6%98%A5%E7%A7%8B%E6%97%85%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1&amp;SID=WEB</item>
+        <item>http://creditcard.ccb.com/cn/creditcard/apply/standard_form.html?id=20110302_1299051749&amp;provId=1001&amp;cityId=1&amp;cardId=20110302_1299051749&amp;card_name=%E8%BD%A6%E9%99%A9%E5%88%86%E6%9C%9F%E5%AE%A2%E6%88%B7%E5%8A%9E%E5%8D%A1&amp;SID=WEB</item>
+        <item>http://creditcard.ccb.com/cn/creditcard/apply/standard_form.html?id=20121113_1352776217&amp;provId=1001&amp;cityId=1&amp;cardId=20121113_1352776217&amp;card_name=%E5%BA%84%E8%83%9C%E5%B4%87%E5%85%89%E9%BE%99%E5%8D%A1&amp;SID=WEB</item>
+    </string-array>
+
+    <string-array name="card_bs_kk_urls">
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+        <item>http://www.bsb.com.cn/yhk/wybk/xyksq/</item>
+    </string-array>
+
+    <string-array name="card_bj_kk_urls">
+        <item>https://card.bankofbeijing.com.cn/coas/apply/apply/?id=1111&amp;imgValue=/wsimage/bank/6403/card/00012_temp.png&amp;imgName=北京银行标准卡普卡&amp;cardCharatis=${cardCharatisOp}&amp;cardCode=A</item>
+        <item>https://card.bankofbeijing.com.cn/coas/apply/apply/?id=1118&amp;imgValue=/wsimage/bank/6403/card/00045_temp.png&amp;imgName=北京旅游卡&amp;cardCharatis=${cardCharatisOp}&amp;cardCode=A</item>
+    </string-array>
+
+    <string-array name="card_gd_kk_urls">
+        <item>https://xyk.cebbank.com/home/ps/ps-req-newindex.htm?req_card_id=22</item>
+        <item>https://xyk.cebbank.com/home/ps/ps-req-newindex.htm?req_card_id=18</item>
+        <item>http://xyk.cebbank.com/home/activities/searchDetail/category/details.htm?contentId=20385</item>
+        <item>https://xyk.cebbank.com/home/ps/ps-req-newindex.htm?req_card_id=241</item>
+        <item>https://xyk.cebbank.com/home/ps/ps-req-newindex.htm?req_card_id=461</item>
+        <item>https://xyk.cebbank.com/home/ps/ps-req-newindex.htm?req_card_id=30</item>
+    </string-array>
+
+    <string-array name="card_gf_kk_urls">
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1017&amp;ctcBrand=M</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1011</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1017&amp;ctcBrand=M</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1017&amp;ctcBrand=M</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1017&amp;ctcBrand=M</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1017&amp;ctcBrand=M</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1017&amp;ctcBrand=M</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1011</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1011</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1011</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1025</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1025</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1025</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1025</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1016</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1004</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1029</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1034</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/creditCardApply.do?ctyTypeNo=1034</item>
+    </string-array>
+
+    <string-array name="card_gz_kk_urls">
+        <item>http://apply.gzcb.com.cn/</item>
+        <item>http://apply.gzcb.com.cn/</item>
+        <item>http://apply.gzcb.com.cn/</item>
+    </string-array>
+
+    <string-array name="card_jt_kk_urls">
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+        <item>https://creditcardapp.bankcomm.com/applynew/front/apply/new/identity.html</item>
+    </string-array>
+
+
+    <string-array name="card_ms_kk_urls">
+        <!--<item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=12&amp;apptype=sl</item>--><!--ceshi-->
+        <item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=6&amp;time=1475319349625</item>
+        <item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=12&amp;time=1475319436012</item>
+        <item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=2&amp;time=1475319716489</item>
+        <item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=3&amp;time=1475319835447</item>
+        <item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=14&amp;time=1475320056004</item>
+        <item>https://creditcard.cmbc.com.cn/onlinepc/logon/logon.jhtml?id=7&amp;time=1475320082142</item>
+    </string-array>
+
+    <string-array name="card_pa_kk_urls">
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+        <item>https://c.pingan.com/apply/newpublic/new_apply/index.html#mainPage</item>
+    </string-array>
+
+    <string-array name="card_pf_kk_urls">
+        <item>https://onlineapp.spdbccc.com.cn/ccoa/newccoapage/new001.jsp?productCode=SPDB100052&amp;productNo=1013456</item>
+        <item>https://onlineapp.spdbccc.com.cn/ccoa/collegeCard.html?productCode=SPDB100044&amp;customerType=1&amp;productNo=1021001</item>
+        <item>https://onlineapp.spdbccc.com.cn/ccoa/newccoapage/new001.jsp?productCode=SPDB100421&amp;gcepp=&amp;productNo=1027029&amp;isc=&amp;hyh=&amp;tel=&amp;epid=&amp;cnum=</item>
+        <item>https://onlineapp.spdbccc.com.cn/ccoa/newccoapage/new001.jsp?productCode=SPDB100052&amp;gcepp=&amp;productNo=1025446&amp;tel=&amp;epid=&amp;cnum=</item>
+    </string-array>
+
+    <string-array name="card_sh_kk_urls">
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001505&amp;id=20980&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001561&amp;id=1730&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001318&amp;id=1730&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001632&amp;id=1720&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001632&amp;id=1720&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001617&amp;id=24290&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001618&amp;id=24290&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001486&amp;id=24626&amp;flag=2</item>
+        <item>https://cb.qq.com/bank/shanghai/basic_info.html?cardtype=cbqqgold&amp;attach=930.0000.01.124.00</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001526&amp;id=1668&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001646&amp;id=1700&amp;flag=2</item>
+        <item>http://www.bankofshanghai.com/creditCardApply.jsp?code=0300001306&amp;id=17393&amp;flag=2</item>
+    </string-array>
+
+    <string-array name="card_xy_kk_urls">
+        <item>https://e.cib.com.cn/app/quickApplyCard/quickApplyCard!custIdentityPage.do</item>
+        <item>https://e.cib.com.cn/app/quickApplyCard/quickApplyCard!custIdentityPage.do</item>
+        <item>https://e.cib.com.cn/app/quickApplyCard/quickApplyCard!custIdentityPage.do</item>
+        <item>https://e.cib.com.cn/app/quickApplyCard/quickApplyCard!custIdentityPage.do</item>
+        <item>https://e.cib.com.cn/app/quickApplyCard/quickApplyCard!custIdentityPage.do</item>
+        <item>https://e.cib.com.cn/app/quickApplyCard/quickApplyCard!custIdentityPage.do</item>
+    </string-array>
+
+    <string-array name="card_zx_kk_urls">
+        <item>https://creditcard.ecitic.com/citiccard/cardishop/jsp/index.jsp?sid=WHSQK&amp;pid=CS0002</item>
+        <item>https://passport.jd.com/new/login.aspx?ReturnUrl=http%3A%2F%2Fbk.jd.com%2FjoinCard%2F36%2Fapply.html%3FnetId%3DWHSQK</item>
+        <item>https://creditcard.ecitic.com/citiccard/cardishop/jsp/index.jsp?sid=WHSQK&amp;pid=CS0101</item>
+        <item>https://cb.qq.com/bank/citic/basic_info.html?cardtype=KPQQCB01&amp;plat_fee=0</item>
+        <item>https://creditcard.ecitic.com/citiccard/cardishop/jsp/index.jsp?sid=WHSQK&amp;pid=CS0181</item>
+    </string-array>
+
+    <string-array name="card_zg_kk_urls">
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+        <item>https://apply.mcard.boc.cn/apply/pc/mainAppi/showIdentity</item>
+    </string-array>
+</resources>

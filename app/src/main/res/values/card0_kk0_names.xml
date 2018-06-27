@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_ny_kk_names">
+        <item>金穗QQ联名IC卡</item>
+        <item>喜羊羊与灰太狼之喜羊羊运动风卡</item>
+        <item>金穗携程旅行卡</item>
+        <item>漂亮升级妈妈信用卡</item>
+        <item>乐卡</item>
+    </string-array>
+
+    <string-array name="card_gs_kk_names">
+        <item>工行牡丹中油信用卡</item>
+        <item>牡丹芒果信用卡</item>
+        <item>工银东航联名卡</item>
+        <item>工行多币种信用卡</item>
+        <item>工行JCB信用卡</item>
+        <item>南航明珠牡丹信用卡</item>
+        <item>国航知音牡丹多币种信用卡</item>
+        <item>工银携程信用卡</item>
+        <item>工银中国旅游卡普卡</item>
+        <item>牡丹美食卡之连年有余</item>
+        <item>牡丹艺龙信用卡</item>
+        <item>工银人保爱车信用卡</item>
+        <item>牡丹海航多币种信用卡</item>
+    </string-array>
+
+    <string-array name="card_zs_kk_names">
+        <item>招商标准金卡</item>
+        <item>招商QQ会员联名信用卡</item>
+        <item>招商银行英雄联盟信用卡</item>
+        <item>招商ONE PIECE千里阳光号航海王卡</item>
+        <item>招商滴滴出行信用卡</item>
+    </string-array>
+    <string-array name="card_js_kk_names">
+        <item>建行My Love卡</item>
+        <item>建行芭比美丽信用卡</item>
+        <item>建行龙卡变形金刚主题信用卡（电影群英版）</item>
+        <item>建行春秋龙卡</item>
+        <item>建行车险分期客户办卡</item>
+        <item>建行庄胜崇光龙卡</item>
+    </string-array>
+
+    <string-array name="card_bs_kk_names">
+        <item>包行标准卡</item>
+        <item>包行酷CAR卡</item>
+        <item>包行魅卡</item>
+        <item>包行香港旅游卡</item>
+        <item>包行商旅卡</item>
+        <item>包行雄鹰信用卡</item>
+        <item>包行中国红主题信用卡</item>
+        <item>永盛成联名卡</item>
+    </string-array>
+
+    <string-array name="card_bj_kk_names">
+        <item>北京银行标准信用卡</item>
+        <item>北京银行北京旅游卡</item>
+    </string-array>
+
+    <string-array name="card_gd_kk_names">
+        <item>光大“福”信用卡</item>
+        <item>光大绿色零碳信用卡</item>
+        <item>光大京东白条联名卡</item>
+        <item>光大旅游主题卡</item>
+        <item>光大时尚COSMO联名卡</item>
+        <item>光大母亲水窖·爱心信用卡</item>
+    </string-array>
+
+    <string-array name="card_gf_kk_names">
+        <item>广发聪明信用卡</item>
+        <item>广发活力信用卡金卡</item>
+        <item>广发真情信用卡</item>
+        <item>广发携程信用卡</item>
+        <item>广发淘宝型男卡</item>
+        <item>广发车主信用金卡</item>
+        <item>广发南航明珠金卡</item>
+        <item>广发联通联名卡</item>
+        <item>广发万宁信用卡</item>
+        <item>广发DIY信用卡</item>
+        <item>广发粤通卡</item>
+        <item>广发爱宠信用卡</item>
+        <item>广发唯品会信用卡</item>
+        <item>广发易车联名信用卡</item>
+        <item>广发银泰信用卡</item>
+        <item>广发深航尊鹏金卡</item>
+        <item>广发优游通信用卡</item>
+        <item>广发欢乐信用卡</item>
+        <item>凤凰知音国航广发信用卡</item>
+    </string-array>
+
+    <string-array name="card_gz_kk_names">
+        <item>广州银行银联标准信用卡</item>
+        <item>广州银行公务卡</item>
+        <item>广州银行移动联名信用卡</item>
+    </string-array>
+
+    <string-array name="card_jt_kk_names">
+        <item>交通银行沃尔玛信用卡</item>
+        <item>交通银行标准信用卡</item>
+        <item>交通银行Y-POWER卡</item>
+        <item>交通银行TESCO乐购信用卡</item>
+        <item>交通银行永达汽车信用卡</item>
+        <item>交通银行锦江之星卡</item>
+        <item>交通银行苏宁电器卡</item>
+        <item>交通银行卜蜂莲花信用卡</item>
+        <item>交通银行利群卡</item>
+        <item>交通银行金鹰信用卡</item>
+        <item>交通银行乐天玛特信用卡</item>
+        <item>交通银行东方航空卡</item>
+        <item>交通银行锦江之星蓝鲸信用卡</item>
+        <item>交通银行国航凤凰知音信用卡</item>
+        <item>交通银行华润万家信用卡金卡</item>
+        <item>交通银行航空秘书卡</item>
+        <item>交通银行平和堂信用卡</item>
+        <item>交通银行华润苏果信用卡金卡</item>
+        <item>交通银行蓉城信用卡</item>
+    </string-array>
+
+    <string-array name="card_ms_kk_names">
+        <item>民生in卡酷动音符版</item>
+        <item>民生东航联名卡</item>
+        <item>民生信用金卡</item>
+        <item>民生女人花银联标准卡</item>
+        <item>民生南航联名信用卡</item>
+        <item>民生欢乐卡</item>
+    </string-array>
+
+    <string-array name="card_pa_kk_names">
+        <item>平安标准卡</item>
+        <item>平安淘宝联名卡迷迭粉</item>
+        <item>平安BE@RBRICK时尚甜心公主卡</item>
+        <item>平安由你卡标准信用卡</item>
+        <item>平安携程商旅卡</item>
+        <item>平安银行1号店联名信用卡</item>
+        <item>平安香港旅游卡</item>
+    </string-array>
+
+    <string-array name="card_pf_kk_names">
+        <item>浦发银行青春信用卡</item>
+        <item>浦发校园青春信用卡</item>
+        <item>咪咕泰迪熊信用卡</item>
+        <item>天天爱消除信用卡</item>
+    </string-array>
+
+    <string-array name="card_sh_kk_names">
+        <item>上海银行农工商联名信用卡</item>
+        <item>上海银行标准卡</item>
+        <item>上海银行标准卡</item>
+        <item>上海银行星运卡（狮子座）</item>
+        <item>上海银行中国旅游信用卡</item>
+        <item>上海银行淘宝联名信用卡男士普卡</item>
+        <item>上海银行淘宝联名信用卡女士普卡</item>
+        <item>上海银行东昌汽车卡</item>
+        <item>上海银行QQ彩贝联名信用卡</item>
+        <item>上海银行申情宠爱卡</item>
+        <item>上海银行银泰百货联名信用卡</item>
+        <item>上海银行《MINA米娜》联名信用卡</item>
+    </string-array>
+
+    <string-array name="card_xy_kk_names">
+        <item>兴业星夜星座信用卡</item>
+        <item>兴业PASS信用卡</item>
+        <item>兴业加菲猫单币标准版</item>
+        <item>兴业银联标准人民币信用卡</item>
+        <item>兴业淘宝网联名信用卡</item>
+        <item>兴业中国低碳银联人民币信用卡(绿叶版)</item>
+    </string-array>
+
+    <string-array name="card_zx_kk_names">
+        <item>中信银联标准IC信用卡</item>
+        <item>中信白条联名卡</item>
+        <item>中信标准信用卡</item>
+        <item>中信QQ彩贝信用卡</item>
+        <item>中信途牛网信用卡</item>
+    </string-array>
+
+    <string-array name="card_zg_kk_names">
+        <item>全币种国际芯片卡</item>
+        <item>中银招财猫卡</item>
+        <item>中银国航知音卡</item>
+        <item>中银都市缤纷-阿狸在一起卡</item>
+        <item>中银银联腾讯视频联名卡</item>
+        <item>中银海航金鹏信用卡</item>
+        <item>银全民健身卡</item>
+        <item>凤凰知音国航中银白金卡</item>
+    </string-array>
+
+
+</resources>

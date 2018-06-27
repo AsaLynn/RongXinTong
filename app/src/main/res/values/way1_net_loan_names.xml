@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+    <string-array name="net_loan_names">
+        <item>宜人贷</item>
+        <item>钱多多</item>
+        <item>平安银行贷款</item>
+        <item>惠金所阳光保险贷款</item>
+        <item>阳光易贷</item>
+        <item>同城易贷</item>
+        <item>人人贷</item>
+        <item>微贷网</item>
+        <item>团贷网</item>
+        <item>口袋网</item>
+        <item>手机贷</item>
+        <item>摇财树</item>
+        <item>江苏银行小微融资</item>
+        <item>平安易贷</item>
+        <item>闪电借款</item>
+        <item>轻松易贷</item>
+        <item>诺诺镑客</item>
+        <item>京东白条</item>
+        <item>花呗</item>
+        <item>速溶360</item>
+        <item>嗨钱</item>
+        <item>学贷网 </item>
+        <item>汽车贷</item>
+        <item>维信金科</item>
+        <item>好学贷</item>
+        <item>我来贷</item>
+        <item>新新贷</item>
+        <item>拍拍贷</item>
+        <item>利融</item>
+        <item>点融</item>
+        <item>奇子贷</item>
+        <item>宜群贷</item>
+        <item>零零分期</item>
+        <item>期待乐</item>
+        <item>搜易贷</item>
+        <item>轻松 e 贷</item>
+        <item>安心贷</item>
+        <item>同兴小贷</item>
+        <item>天下贷</item>
+        <item>阳光速贷</item>
+        <item>银信小贷</item>
+        <item>积木盒子</item>
+    </string-array>
+</resources>

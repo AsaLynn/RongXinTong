@@ -1,0 +1,1 @@
+include ':app', ':library-viewpagercycle', ':library_BaseRecyclerViewAdapter', ':library-Support', ':library_jsBridge'

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_ny_kk_dess">
+        <item>财付通快捷支付可获乐刮卡100%中奖</item>
+        <item>喜羊羊联名卡积分专区兑换享7.5折礼遇</item>
+        <item>享携程VIP各种优惠礼遇和信息服务</item>
+        <item>提供幼儿教育、亲子健康等专属权益</item>
+        <item>具备电子现金账户 实现小额快速支付</item>
+    </string-array>
+
+    <string-array name="card_gs_kk_dess">
+        <item>刷卡加油可享3%优惠</item>
+        <item>机票票价优惠2%，酒店房费优惠5%</item>
+        <item>购票享受立减5%优惠</item>
+        <item>支持十种外币币种，境外消费免转换手续费</item>
+        <item>可提前预约租赁境外随身WiFi</item>
+        <item>享南航常旅客计划的各种奖励与服务</item>
+        <item>积分自动兑换里程，享国航提供多重里程服务</item>
+        <item>节省1.1%外币兑换手续费</item>
+        <item>指定3A 级以上景区享购票折扣</item>
+        <item>全国5000家餐饮商户享折扣优惠</item>
+        <item>酒店、机票及购买酒店团购产品可获返现</item>
+        <item>成功办卡赠送保险</item>
+        <item>入住海航下属酒店得双倍金鹏里程</item>
+    </string-array>
+
+    <string-array name="card_zs_kk_dess">
+        <item>积分永久有效</item>
+        <item>积分可超值兑换新秀丽时尚背包</item>
+        <item>精彩英雄卡面随心选</item>
+        <item>海贼王信用卡 生日月享双倍积分</item>
+        <item>达标即送超值拉杆箱及200元大礼包</item>
+    </string-array>
+    <string-array name="card_js_kk_dess">
+        <item>亲自设计信用卡卡面</item>
+        <item>每周六消费获双倍积分 免费享最高500万航空意外险</item>
+        <item>享预订酒店餐馆优惠</item>
+        <item>出境游立减30元，国内游再优惠部分30%折扣</item>
+        <item>分期付款0利息0手续费，商业险多省15%</item>
+        <item>购物9—9.5折、餐饮9折</item>
+    </string-array>
+
+    <string-array name="card_bs_kk_dess">
+        <item>免费交易短信通知 小额免密支付</item>
+        <item>刷卡加油享5倍积分 赠道路救援服务</item>
+        <item>免费赠女性健康保险、时尚杂志</item>
+        <item>港澳特约商户消费可赚取4倍积分</item>
+        <item>积分自由兑换任意一家航空里程</item>
+        <item>能够在境内外银联联网的ATM消费、取现</item>
+        <item>“消费即行善”每笔消费银行捐1分钱</item>
+        <item>积分可兑换永盛成购物卡</item>
+    </string-array>
+
+    <string-array name="card_bj_kk_dess">
+        <item>普卡</item>
+        <item>普卡</item>
+    </string-array>
+
+    <string-array name="card_gd_kk_dess">
+        <item>“福卡”MINI卡自动免息分期优惠多多</item>
+        <item>卡片可回收再利用</item>
+        <item>首刷送50元京东钢镚</item>
+        <item>景区门票优惠专享</item>
+        <item>享会员价7.5折订阅《时尚COSMO》</item>
+        <item>每笔消费银行公益捐助一分钱</item>
+    </string-array>
+
+    <string-array name="card_gf_kk_dess">
+        <item>透现分期享5倍积分</item>
+        <item>7元起预订运动场地新品5折秒杀</item>
+        <item>自选商户三倍积分自选保险赠送</item>
+        <item>消费2元积1携程积分</item>
+        <item>100个集分宝价值1元</item>
+        <item>加油可享5倍积分或1%返现</item>
+        <item>生日、商旅类消费双倍里程赠送</item>
+        <item>积分可抵扣联通3G,4G套餐</item>
+        <item>专享低至5折万宁会员价商品</item>
+        <item>积分自由换礼或折抵欠款</item>
+        <item>加油1%现金返还节假日通行费8.5折</item>
+        <item>赠送宠物责任保险和宠物健康体检</item>
+        <item>唯品会购物全场9.5折</item>
+        <item>加油3%现金返还保险额外补贴</item><!--加油3%现金返还保险额外5%补贴-->
+        <item>银泰百货购物VIP折上返现2%</item>
+        <item>里程可兑深航或国航机票</item>
+        <item>刷卡加油1%现金返还或5倍积分</item>
+        <item>10倍积分奖励 即领即换</item>
+        <item>年度机票,酒店消费额外5%里程奖励</item>
+    </string-array>
+
+    <string-array name="card_gz_kk_dess">
+        <item>可在海外近104个国家和地区刷卡消费</item>
+        <item>终身免年费及短信服务费</item>
+        <item>1万积分兑20元话费</item>
+    </string-array>
+
+    <string-array name="card_jt_kk_dess">
+        <item>店内消费双倍积分,积分抵现最高可达1％</item>
+        <item>境内外消费后都可人民币还款</item>
+        <item>取现额度高达100% 手续费低至5元每笔</item>
+        <item>店内消费2倍会员积分</item>
+        <item>享受永达店汽车服务折扣优惠</item>
+        <item>享受房价95折 餐饮88折</item>
+        <item>享苏宁"阳光会员"特价商品</item>
+        <item>每200交行积分可抵1元店内消费</item>
+        <item>店内消费双倍积分 积分400：1抵刷卡金</item>
+        <item>金鹰全国连锁店消费专享8.8折优惠</item>
+        <item>店内消费每450分可抵3元</item>
+        <item>交行积分12：1兑东方万里行积分</item>
+        <item>房费9折餐饮88折 店内消费双倍积分</item>
+        <item>每18个银行积分兑换1国航凤凰知音里程</item>
+        <item>享店内商品会员价及专属优惠活动</item>
+        <item>提供"积分"及"积分＋现金"的方式兑机票</item>
+        <item>购买指定商品9.5折</item>
+        <item>享店内商品会员价及专属优惠活动</item>
+        <item>有市内公共交通卡功能</item>
+    </string-array>
+
+
+    <string-array name="card_ms_kk_dess">
+        <item>活动合作商户享优惠 每周日刷卡消费双倍积分</item>
+        <item>消费18元兑换1里程，刷卡轻松累计里程</item>
+        <item>享机票、酒店优惠服务 获汽车救援服务</item>
+        <item>每周四刷卡消费双倍积分</item>
+        <item>南航机票“兑一赠一”</item>
+        <item>活动合作商户享优惠 每周日刷卡消费双倍积分</item>
+    </string-array>
+
+    <string-array name="card_pa_kk_dess">
+        <item>赠最高达50万元居家、出行意外保障险</item>
+        <item>淘宝享积分，还能当钱花</item>
+        <item>刷卡赢取BE@RBRICK潮人套装+限量版玩偶</item>
+        <item>权益自由定制 畅享10倍积分奖赏</item>
+        <item>海陆空全方位出行保障最高达200万</item>
+        <item>每月赠满百减十抵用券、免邮券</item>
+        <item>香港购物畅享折扣优惠 更有3倍积分</item>
+    </string-array>
+
+    <string-array name="card_pf_kk_dess">
+        <item>分期手续费专享9折优惠</item>
+        <item>普卡</item>
+        <item>普卡</item>
+        <item>普卡</item>
+    </string-array>
+
+    <string-array name="card_sh_kk_dess">
+        <item>享店内消费返利、红利价格等优惠</item>
+        <item>刷卡消费可永久享受红利积分</item>
+        <item>刷卡消费可永久享受红利积分</item>
+        <item>推出分期随心分 以十二星座为卡面（狮子座）</item>
+        <item>全国指定3A级以上景点门票优惠5至8折</item>
+        <item>支付宝快捷支付时积分直抵消费额</item>
+        <item>支付宝快捷支付时积分直抵消费额</item>
+        <item>自动成为东昌汽车会员 享双重积分</item>
+        <item>线下交易12元累计1彩贝</item>
+        <item>针对女性发行 享高达300万交通意外险</item>
+        <item>享银泰百货会员优惠待遇</item>
+        <item>面向年轻时尚女性 享久尚网全单75折</item>
+    </string-array>
+
+    <string-array name="card_xy_kk_dess">
+        <item>附带专属星座小卡</item>
+        <item>尽享200万高额航意险</item>
+        <item>加菲猫形象做卡面 更可享汽车租赁8.8折</item>
+        <item>享受免息分期购物计划</item>
+        <item>积分兑换人民币</item>
+        <item>首年刷卡满3万赠1吨碳减排量</item>
+    </string-array>
+
+    <string-array name="card_zx_kk_dess">
+        <item>积分可兑3000多种礼品 还可兑航空里程</item>
+        <item>积分换钢镚，1个钢镚抵1元现金</item>
+        <item>消费或提现1元可积2分</item>
+        <item>消费8元积1彩贝 网上交易计积分</item>
+        <item>途牛网跟团游享98折</item>
+    </string-array>
+
+    <string-array name="card_zg_kk_dess">
+        <item>免收货币兑换手续费 境外消费5%返现</item>
+        <item>东京塔等10塔免费登塔</item>
+        <item>双重积分 自动兑换国航里程</item>
+        <item>阿狸主题萌卡面-阿狸在一起卡</item>
+        <item>腾讯视频好莱坞会员一激即享</item>
+        <item>成功办卡即送500海航金鹏里程</item>
+        <item>全国500余家运动场馆超值预订优惠</item>
+        <item>消费12:1累积里程，境外消费2倍累积里程</item>
+    </string-array>
+</resources>

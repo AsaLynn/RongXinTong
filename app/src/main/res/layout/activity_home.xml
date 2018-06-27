@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.xuanyi.rxt.HomeActivity">
+
+    <include layout="@layout/layout_title" />
+
+    <FrameLayout
+        android:id="@+id/content_fl"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.0" />
+
+    <com.xuanyi.rxt.view.NestRadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_px96"
+        android:background="#FAFBFD"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.xuanyi.rxt.view.MyRadioButton
+            android:id="@+id/rb_home_page"
+            style="@style/MyRadioButtonStyle"
+            android:text="首页"
+            app:drawableHeightSize="24dp"
+            app:drawableTop="@drawable/tab_home" />
+
+        <com.xuanyi.rxt.view.MyRadioButton
+            android:id="@+id/rb_net"
+            style="@style/MyRadioButtonStyle"
+            android:text="朋友圈"
+            app:drawableHeightSize="24dp"
+            app:drawableTop="@drawable/tab_friends" />
+
+        <com.xuanyi.rxt.view.MyRadioButton
+            android:id="@+id/rb_comprehensive"
+            style="@style/MyRadioButtonStyle"
+            android:text="系统学习"
+            app:drawableHeightSize="24dp"
+            app:drawableTop="@drawable/tab_learn" />
+
+    </com.xuanyi.rxt.view.NestRadioGroup>
+
+</LinearLayout>

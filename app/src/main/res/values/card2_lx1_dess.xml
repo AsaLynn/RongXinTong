@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="card_ny_lx_dess">
+        <item>购安邦车险最高返25%刷卡金</item>
+        <item>尊享全球知名商店消费5%奖励回馈</item>
+        <item>享携程VIP各种优惠礼遇和信息服务</item>
+        <item>享受景区购票优惠</item>
+        <item>国际航线最高减10% 赠200万航空意外险</item>
+        <item>ETC非停车通道实现电子缴费</item>
+        <item>积分350：1兑航空积分 最高200万航空险</item>
+        <item>享酒后代驾、机场贵宾等尊贵礼遇</item>
+        <item>零货币转换费，支持任意币种消费</item>
+    </string-array>
+
+    <string-array name="card_gs_lx_dess">
+        <item>机票票价优惠2%，酒店房费优惠5%</item>
+        <item>购票享受立减5%优惠</item>
+        <item>支持十种外币币种，境外消费免转换手续费</item>
+        <item>享南航常旅客计划的各种奖励与服务</item>
+        <item>购票享受立减5%优惠</item>
+        <item>积分自动兑换里程，享国航提供多重里程服务</item>
+        <item>购票享受立减5%优惠</item>
+        <item>节省1.1%外币兑换手续费</item>
+        <item>指定3A 级以上景区享购票折扣</item>
+        <item>购票享受立减5%优惠</item>
+        <item>酒店、机票及购买酒店团购产品可获返现</item>
+        <item>无条件直接免除货币转换费</item>
+        <item>积分自动兑换里程，享国航提供多重里程服务</item>
+        <item>入住海航下属酒店得双倍金鹏里程</item>
+    </string-array>
+
+    <string-array name="card_zs_lx_dess">
+        <item>全球货币0外汇兑换手续费</item>
+        <item>达标即送超值拉杆箱及200元大礼包</item>
+    </string-array>
+    <string-array name="card_js_lx_dess">
+        <item>免外汇兑换手续费，积分15比1自动转换里程</item>
+        <item>丰厚的旅行基金</item>
+        <item>免收外汇兑换手续费</item>
+        <item>免外汇兑换手续费，积分14比1自动兑换里程</item>
+        <item>丰厚的旅行基金</item>
+        <item>免外汇兑换手续费，积分15比1自动兑换里程</item>
+        <item>出境游立减30元，国内游再优惠部分30%折扣</item>
+        <item>车险增值、4S店优惠、车险返还</item>
+        <item>高信用额度高额航空意外险</item>
+        <item>优惠分期费用、高额出行保障、尊贵白金礼遇</item>
+        <item>机票酒店预订有折扣返现</item>
+        <item>免收外汇兑换手续费</item>
+        <item>丰厚的旅行基金</item>
+        <item>酒店3倍积分,机票、度假产品1.5倍积分</item>
+        <item>特惠商户享受折扣优惠或购物赠礼</item>
+        <item>每月自动按积分15：1兑换里程</item>
+    </string-array>
+
+    <string-array name="card_bs_lx_dess">
+        <item>能够在境内外银联联网的ATM消费、取现</item>
+        <item>享全国机场贵宾、道路救援等服务</item>
+        <item>港澳特约商户消费可赚取4倍积分</item>
+        <item>积分自由兑换任意一家航空里程</item>
+        <item>尊享包头地区机场贵宾服务</item>
+        <item>能够在境内外银联联网的ATM消费、取现</item>
+    </string-array>
+
+    <string-array name="card_bj_lx_dess">
+        <item>金卡</item>
+        <item>金卡</item>
+        <item>金卡</item>
+        <item>餐饮、百货、住宿三类消费3倍积分</item>
+        <item>金卡</item>
+    </string-array>
+
+    <string-array name="card_gd_lx_dess">
+        <item>赠送100万高额出行意外险</item>
+        <item>日常可计积分交易享受2倍积分</item>
+        <item>无限次使用机场贵宾厅服务</item>
+    </string-array>
+
+    <string-array name="card_gf_lx_dess">
+        <item>消费2元积1携程积分</item>
+        <item>加油可享5倍积分或1%返现</item>
+        <item>生日、商旅类消费双倍里程赠送</item>
+        <item>绿色就医通道 绿色机场通道</item>
+        <item>快速累积里程 高额航空旅行不便险</item>
+        <item>加油1%现金返还 节假日通行费8.5折</item>
+        <item>享受7天酒店会员的权益及优惠</item>
+        <item>加油3%现金返还保险额外补贴</item>
+        <item>里程可兑深航或国航机票</item>
+        <item>刷卡加油1%现金返还或5倍积分</item>
+        <item>年度机票+酒店消费额外5%里程奖励</item>
+        <item>商旅/海外消费多倍绿翼积分累积</item>
+    </string-array>
+
+
+    <string-array name="card_gz_lx_dess">
+        <item>商旅消费累积双倍里程</item>
+        <item>可在海外近104个国家和地区刷卡消费</item>
+        <item>全国机场不限次数贵宾礼遇</item>
+        <item>免货币转换费及境外透支取现手续费</item>
+    </string-array>
+
+    <string-array name="card_jt_lx_dess">
+        <item>境内外消费后都可人民币还款</item>
+        <item>享受永达店汽车服务折扣优惠</item>
+        <item>享受房价95折 餐饮88折</item>
+        <item>金鹰全国连锁店消费专享8.8折优惠</item>
+        <item>交行积分12：1兑东方万里行积分</item>
+        <item>房费9折餐饮88折 店内消费双倍积分</item>
+        <item>每18个银行积分兑换1国航凤凰知音里程</item>
+        <item>有市内公共交通卡功能</item>
+
+    </string-array>
+
+    <string-array name="card_ms_lx_dess">
+        <item>消费18元兑换1里程，刷卡轻松累计里程</item>
+        <item>享机票、酒店优惠服务 获汽车救援服务</item>
+        <item>有机会获得加油金，现办卡可免费洗车</item>
+        <item>人民币消费15元兑换1里程</item>
+        <item>南航机票“兑一赠一”</item>
+        <item>南航机票“兑一赠一”</item>
+        <item>酒店用餐、住宿优享折扣</item>
+        <item>南航机票“兑一赠一”</item>
+        <item>消费15元兑换1里程，刷卡轻松累计里程</item>
+    </string-array>
+
+    <string-array name="card_pa_lx_dess">
+        <item>赠最高达50万元居家、出行意外保障险</item>
+        <item>最高110万元全车人员意外保障</item>
+        <item>海陆空全方位出行保障最高达200万</item>
+        <item>赠最高达50万元居家、出行意外保障险</item>
+        <item>机票、酒店、旅行社消费享0.5%回馈金</item>
+        <item>香港购物畅享折扣优惠 更有3倍积分</item>
+    </string-array>
+
+    <string-array name="card_pf_lx_dess">
+        <item>5万积分兑换境内外星级酒店一夜住宿</item>
+        <item>24小时无限次道路紧急救援</item>
+        <item>五星级酒店自助餐买一赠一</item>
+        <item>消费15元兑换1里程</item>
+        <item>12元兑换1里程 境外消费双倍积分</item>
+        <item>15元=1JMB里程积分</item>
+        <item>14元兑换1里程 境外消费双倍积分</item>
+    </string-array>
+
+    <string-array name="card_sh_lx_dess">
+        <item>享店内消费返利、红利价格等优惠</item>
+        <item>免费享车辆养护、酒后代驾等服务</item>
+        <item>刷卡消费可永久享受红利积分</item>
+        <item>全国指定3A级以上景点门票优惠5至8折</item>
+        <item>最高800万元交通工具意外险</item>
+        <item>享高端酒店、餐饮、珠宝、美容等折扣优惠</item>
+        <item>支付宝快捷支付时积分直抵消费额</item>
+        <item>支付宝快捷支付时积分直抵消费额</item>
+        <item>消费200元积1里程，享机场贵宾服务</item>
+        <item>机票特惠折上折 享成都机场免费接送</item>
+        <item>银河资本内参、量身定制投资交易程序</item>
+        <item>0货币兑换手续费 畅享海外商户消费</item>
+        <item>享银泰百货会员优惠待遇</item>
+        <item>面向年轻时尚女性 享久尚网全单75折</item>
+    </string-array>
+
+    <string-array name="card_xy_lx_dess">
+        <item>尽享200万高额航意险</item>
+        <item>加菲猫形象做卡面 更可享汽车租赁8.8折</item>
+        <item>最高1000万公共交通工具意外险</item>
+        <item>首年刷卡满3万赠1吨碳减排量</item>
+        <item>免收国外交易汇兑手续费</item>
+    </string-array>
+
+    <string-array name="card_zx_lx_dess">
+        <item>积分可兑3000多种礼品 还可兑航空里程</item><!---->
+        <item>延误4小时获赔1000元航班延误金</item><!---->
+        <item>首张车险联名卡 购天安保险享会员折扣</item><!---->
+        <item>酒店房价专属85折</item><!---->
+        <item>开卡即获20%的乘车金返还</item><!---->
+        <item>境外消费3倍积分 免1.5%货币兑换手续费</item><!---->
+        <item>交易、还款计积分可兑好礼</item>
+    </string-array>
+
+    <string-array name="card_zg_lx_dess">
+        <!---->
+        <item>免收货币兑换手续费 境外消费5%返现</item>
+        <!---->
+        <item>东京塔等10塔免费登塔</item>
+        <!---->
+        <item>免收货币兑换手续费 境外消费5%返现</item>
+        <!---->
+        <item>境外消费最高10%返现 免货币转换费</item>
+        <!---->
+        <item>双重积分 自动兑换国航里程</item>
+        <!---->
+        <item>自动兑换南航里程 赠送出行系列保险</item>
+        <!---->
+        <item>全球优选商家购物折扣 境外WI-FI立减99元</item>
+        <!---->
+        <item>酒店、机票预订最高5%返携程礼品卡</item>
+        <!---->
+        <item>消费12:1累积里程，境外消费2倍累积里程</item>
+    </string-array>
+
+
+    <string-array name="card_hx_lx_dess">
+        <item>尊享双倍商旅金回馈1元商旅金抵1元</item>
+        <item>加油返2%自动扣划高速公路通行费</item>
+        <item>自动扣划高速公路通行费</item>
+    </string-array>
+
+    <string-array name="card_zd_lx_dess">
+        <item>享全球机场高铁贵宾室、全国机场接送</item>
+    </string-array>
+
+    <string-array name="card_hq_lx_dess">
+        <item>全球超过70+家航空公司里程兑换</item>
+        <item>年费无减免</item>
+    </string-array>
+
+
+</resources>

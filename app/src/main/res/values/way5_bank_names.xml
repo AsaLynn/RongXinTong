@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_phone_names">
+        <item>招商银行信用卡</item>
+        <item>广发银行信用卡</item>
+        <item>中信银行信用卡</item>
+        <item>工商银行信用卡</item>
+        <item>中国银行信用卡</item>
+        <item>华夏信用卡</item>
+        <item>交通银行信用卡</item>
+        <item>建设银行信用卡</item>
+        <item>浦发银行信用卡</item>
+        <item>兴业银行信用卡</item>
+        <item>民生银行信用卡</item>
+        <item>农行信用信用卡</item>
+        <item>平安银行信用卡</item>
+        <item>光大银行信用卡</item>
+        <item>光大白金卡信用卡</item>
+    </string-array>
+</resources>

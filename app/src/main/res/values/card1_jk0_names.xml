@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="card_ny_jk_names">
+        <item>农行金穗QQ联名IC卡</item>
+        <item>农行喜羊羊与灰太狼之喜羊羊运动风卡</item>
+        <item>安邦车主信用卡</item>
+        <item>农行金穗悠游世界卡</item>
+        <item>农行金穗携程旅行卡</item>
+        <item>农行漂亮升级妈妈信用卡</item>
+        <item>中国旅游IC信用卡</item>
+        <item>乐卡</item>
+        <item>环球商旅信用卡</item>
+        <item>辽通信用卡</item>
+        <item>吉祥航空联名IC信用卡</item>
+        <item>金穗温州商人卡</item>
+    </string-array>
+
+    <string-array name="card_gs_jk_names">
+        <item>工行牡丹中油信用卡</item>
+        <item>牡丹芒果信用卡</item>
+        <item>工银东航联名卡</item>
+        <item>工行多币种信用卡</item>
+        <item>工行JCB信用卡</item>
+        <item>南航明珠牡丹信用卡</item>
+        <item>工银东航联名卡</item>
+        <item>国航知音牡丹多币种信用卡</item>
+        <item>工银东航联名卡</item>
+        <item>工银携程信用卡</item>
+        <item>工银中国旅游卡普卡</item>
+        <item>工银人保爱车信用卡单芯片</item>
+        <item>工银东航联名卡</item>
+        <item>牡丹艺龙信用卡</item>
+        <item>工银人保爱车信用卡</item>
+        <item>工银环球旅行白金信用卡</item>
+        <item>国航知音牡丹信用卡</item>
+        <item>国航知音牡丹信用卡</item>
+        <item>牡丹海航多币种信用卡</item>
+    </string-array>
+
+    <string-array name="card_zs_jk_names">
+        <item>招商YOUNG卡(黑)</item>
+        <item>招商标准金卡</item>
+        <item>招商VISA Signature全币种白金信用卡</item>
+    </string-array>
+    <string-array name="card_js_jk_names">
+        <item>建行知音龙卡</item>
+        <item>.建行世界旅行IC信用卡</item>
+        <item>建行芭比美丽信用卡</item>
+        <item>建行龙卡全球支付信用卡</item>
+        <item>建行唯品会龙卡信用卡</item>
+        <item>建行南航龙卡</item>
+        <item>建行龙卡变形金刚主题信用卡（电影群英版）</item>
+        <item>建行世界旅行信用卡</item>
+        <item>建行南航龙卡</item>
+        <item>.建行春秋龙卡</item>
+        <item>安邦保险龙卡IC信用卡</item>
+        <item>建行锦江龙卡</item>
+        <item>龙卡益贷卡</item>
+        <item>建行欧洲旅行信用卡</item>
+        <item>建行龙卡全球支付信用卡</item>
+        <item>建行世界旅行IC信用卡</item>
+        <item>建行芒果旅行龙卡</item>
+        <item>建行龙卡港澳台旅行信用卡</item>
+        <item>建行东航龙卡信用卡</item>
+        <item>建行庄胜崇光龙卡</item>
+    </string-array>
+
+    <string-array name="card_bs_jk_names">
+        <item>商赢家商赢通信用卡</item>
+        <item>金领标准卡</item>
+        <item>金领标准卡</item>
+        <item>包行标准卡</item>
+        <item>包行酷CAR卡</item>
+        <item>包行雄鹰信用卡</item>
+        <item>包行魅卡</item>
+        <item>至尊版白金卡</item>
+        <item>包行香港旅游卡</item>
+        <item>包行商旅卡</item>
+        <item>经典白金卡</item>
+        <item>包行雄鹰信用卡</item>
+        <item>包行中国红主题信用卡</item>
+        <item>永盛成联名卡</item>
+        <item>包百联名卡</item>
+    </string-array>
+
+    <string-array name="card_bj_jk_names">
+        <item>北京银行标准信用卡</item>
+        <item>北京银行北京旅游卡</item>
+        <item>北京银行凝彩卡</item>
+        <item>北京银行乐驾卡</item>
+        <item>北京银行王府井百货联名卡</item>
+        <item>北京银行马年生肖卡</item>
+        <item>北京银行萌宠卡</item>
+        <item>北京银行羊年生肖卡</item>
+        <item>北京银行对外友协联名卡</item>
+    </string-array>
+
+    <string-array name="card_gd_jk_names">
+        <item>光大炎黄信用卡</item>
+        <item>光大阳光商旅白金信用卡</item>
+        <item>阳光信用卡银联金卡</item>
+        <item>招财猫主题信用卡</item>
+    </string-array>
+
+    <string-array name="card_gf_jk_names">
+        <item>广发聪明信用卡</item>
+        <item>广发活力信用卡金卡</item>
+        <item>广发真情信用卡</item>
+        <item>广发携程信用卡</item>
+        <item>广发淘宝型男卡</item>
+        <item>广发车主信用金卡</item>
+        <item>广发南航明珠金卡</item>
+        <item>广发臻享白金卡</item>
+        <item>广发联通联名卡</item>
+        <item>广发万宁信用卡</item>
+        <item>广发臻尚白金信用卡</item>
+        <item>广发东航金卡</item>
+        <item>广发DIY信用卡</item>
+        <item>广发粤通卡</item>
+        <item>广发爱·宠信用卡</item>
+        <item>广发唯品会信用卡</item>
+        <item>广发7天联名信用卡</item>
+        <item>广发易车联名信用卡</item>
+        <item>广发银泰信用卡</item>
+        <item>广发深航尊鹏金卡</item>
+        <item>广发希望信用卡</item>
+        <item>广发优游通信用卡</item>
+        <item>广发欢乐信用卡</item>
+        <item>凤凰知音国航广发信用卡</item>
+        <item>广发春秋航空信用卡</item>
+    </string-array>
+
+    <string-array name="card_gz_jk_names">
+        <item>广州银行南航明珠白金信用卡（精英版）</item>
+        <item>广州银行银联标准信用卡</item>
+        <item>广州银行银联标准信用卡</item>
+        <item>广州银行VISA信用卡</item>
+    </string-array>
+
+    <string-array name="card_jt_jk_names">
+        <item>交通银行沃尔玛信用卡</item>
+        <item>交通银行标准信用卡</item>
+        <item>交通银行TESCO乐购信用卡</item>
+        <item>交通银行永达汽车信用卡</item>
+        <item>交通银行锦江之星卡</item>
+        <item>交通银行苏宁电器卡</item>
+        <item>交通银行卜蜂莲花信用卡</item>
+        <item>交通银行利群卡</item>
+        <item>交通银行金鹰信用卡</item>
+        <item>交通银行乐天玛特信用卡</item>
+        <item>交通银行东方航空卡</item>
+        <item>交通银行锦江之星蓝鲸信用卡</item>
+        <item>交通银行国航凤凰知音信用卡</item>
+        <item>交通银行华润万家信用卡金卡</item>
+        <item>交通银行航空秘书卡</item>
+        <item>交通银行平和堂信用卡</item>
+        <item>交通银行华润苏果信用卡金卡</item>
+        <item>交通银行蓉城信用卡</item>
+    </string-array>
+
+    <string-array name="card_ms_jk_names">
+        <item>民生in卡酷动音符版</item>
+        <item>民生东航联名卡</item>
+        <item>民生信用金卡</item>
+        <item>民生车车信用卡</item>
+        <item>民生国航知音联名卡</item>
+        <item>民生女人花银联标准卡</item>
+        <item>民生南航联名信用卡</item>
+        <item>民生欢乐卡</item>
+        <item>民生南航联名信用卡</item>
+        <item>民生全币种白金信用卡</item>
+        <item>民生香格里拉联名信用卡</item>
+        <item>民生南航联名信用卡</item>
+        <item>民生东航联名卡</item>
+    </string-array>
+
+    <string-array name="card_pa_jk_names">
+        <item>平安标准卡</item>
+        <item>平安车主卡</item>
+        <item>平安保险卡</item>
+        <item>平安中国旅游信用卡</item>
+        <item>平安银行1号店联名信用卡</item>
+        <item>平安香港旅游卡</item>
+    </string-array>
+
+    <string-array name="card_pf_jk_names">
+        <item>浦发爱宁信用卡</item>
+        <item>浦发美国运通白金卡</item>
+        <item>浦发尊尚白金卡</item>
+        <item>浦发Visa白金卡(简约版)</item>
+        <item> 东航·浦发联名卡（双币）</item>
+        <item> 东航·浦发联名白金信用卡</item>
+        <item> 浦发日航联名卡</item>
+        <item>东航·浦发联名钛金信用卡</item>
+    </string-array>
+
+    <string-array name="card_sh_jk_names">
+        <item>上海银行农工商联名信用卡</item>
+        <item>上海银行畅行卡</item>
+        <item>上海银行标准卡</item>
+        <item>上海银行中国旅游信用卡</item>
+        <item>上海银行银联标准白金信用卡(精致版)</item>
+        <item>上海银行《申》报宠耀女士白金卡</item>
+        <item>上海银行淘宝联名信用卡</item>
+        <item>上海银行淘宝联名信用卡</item>
+        <item>上海银行吉祥航空联名信用卡</item>
+        <item>上海银行铁航商旅网联名信用卡</item>
+        <item>上海银行银河证券联名信用卡</item>
+        <item>上海银行VISA全球支付信用卡（全球版）</item>
+        <item>上海银行银泰百货联名信用卡</item>
+        <item> 上海银行《MINA米娜》联名信用卡</item>
+    </string-array>
+
+    <string-array name="card_xy_jk_names">
+        <item>兴业星夜星座信用卡</item>
+        <item>兴业PASS信用卡</item>
+        <item>兴业加菲猫单币标准版</item>
+        <item>兴业银联标准人民币信用卡</item>
+        <item>兴业淘宝网联名信用卡</item>
+        <item>兴业睿白金信用卡</item>
+        <item>兴业中国低碳银联人民币信用卡(绿叶版)</item>
+        <item>兴业淘宝网联名信用卡</item>
+        <item>兴业银行全币种国际信用卡</item>
+    </string-array>
+
+    <string-array name="card_zx_jk_names">
+        <item>中信银联标准IC信用卡</item>
+        <item> 中信穿越火线联名IC金卡（CF标准版）</item>
+        <item> 中信腾讯QQ（透明版）会员联名卡</item>
+        <item>中信白条联名卡</item>
+        <item>中信标准信用卡</item>
+        <item>中信i白金信用卡</item>
+        <item>中信魔力信用卡</item>
+        <item>中信QQ彩贝信用卡</item>
+        <item>中信淘宝网联名信用卡（V版）金卡</item>
+        <item>中信悦卡信用卡</item>
+        <item>中信标准信用卡</item>
+        <item>中信Q享联名卡</item>
+        <item>中信顺丰银联金卡</item>
+        <item>中信魔力jcb白金卡</item>
+        <item>中信天安保险信用卡</item>
+        <item>中信银行IHG® 优悦会联名卡</item>
+        <item>中信Uber联名卡乘客卡</item>
+        <item>中信Visa Signature信用卡</item>
+        <item>中信汇添富现金宝信用卡</item>
+    </string-array>
+
+    <string-array name="card_zg_jk_names">
+        <item>全币种国际芯片卡</item>
+        <item>中银招财猫卡</item>
+        <item>中银长城环球通信用卡</item>
+        <item>中银钛金香槟黄女士卡</item>
+        <item>中银国航知音卡</item>
+        <item>中银南航明珠卡</item>
+        <item>长城环球通自由行信用卡</item>
+        <item>长城环球通携程信用卡</item>
+        <item>.凤凰知音国航中银白金卡</item>
+    </string-array>
+
+    <string-array name="card_hx_jk_names">
+        <item>华夏SMART信用卡</item>
+        <item>华夏标准卡</item>
+        <item>华夏钛金信用卡</item>
+        <item>华夏钛金丽人卡</item>
+        <item>华夏精英•尊尚白金信用卡</item>
+        <item>畅行华夏白金信用卡</item>
+        <item>华夏标准IC银联白金信用卡</item>
+        <item>华夏ETC银联白金信用卡</item>
+    </string-array>
+
+    <string-array name="card_zd_jk_names">
+        <item>渣打银行真逸卡(人民币卡）</item>
+        <item>渣打银行臻程卡（人民币卡）</item>
+    </string-array>
+
+    <string-array name="card_hq_jk_names">
+        <item>花旗礼享卡</item>
+        <item>花旗礼程卡</item>
+        <item>Citi Prestige 花旗至享卡</item>
+    </string-array>
+
+
+</resources>

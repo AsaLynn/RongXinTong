@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="card_ny_gw_dess">
+        <!--1--><item>财付通快捷支付可获乐刮卡100%中奖</item>
+        <!--1--><item>喜羊羊联名卡积分专区兑换享7.5折礼遇</item>
+        <!--1--><item>购安邦车险最高返25%刷卡金</item>
+        <!--1--><item>提供幼儿教育、亲子健康等专属权益</item>
+        <!--1--><item>具备电子现金账户 实现小额快速支付</item>
+        <!--1--><item>享酒后代驾、机场贵宾等尊贵礼遇</item>
+        <!--1--><item>零货币转换费，支持任意币种消费</item>
+    </string-array>
+
+    <string-array name="card_gs_gw_dess">
+        <!----><item>刷卡加油可享3%优惠</item>
+        <!----><item>支持十种外币币种，境外消费免转换手续费</item>
+        <!----><item>可提前预约租赁境外随身WiFi</item>
+        <!----><item>成功办卡赠送保险</item>
+        <!----><item>成功办卡赠送保险</item>
+    </string-array>
+
+    <string-array name="card_zs_gw_dess">
+        <item>高达100%的取现额度</item>
+        <item>积分永久有效</item>
+        <item>全球货币0外汇兑换手续费</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="card_js_gw_dess">
+        <!----><item>每周六消费获双倍积分 免费享最高500万航空意外险</item>
+        <!----><item>免收外汇兑换手续费</item>
+        <!----><item>唯品会会员折上9.8折</item>
+        <!----><item>享预订酒店餐馆优惠</item>
+        <!----> <item>车险增值、4S店优惠、车险返还</item>
+        <!----><item>优惠分期费用、高额出行保障、尊贵白金礼遇</item>
+        <!----><item>免收外汇兑换手续费</item>
+        <!----><item>购物9—9.5折、餐饮9折</item>
+    </string-array>
+
+    <string-array name="card_bs_gw_dess">
+        <!----><item>90%信用额度内预借现金转账 按日计息</item>
+        <!----><item>刷卡加油享5倍积分 赠道路救援服务</item>
+        <!----><item>免费赠女性健康保险、时尚杂志</item>
+        <!----><item>积分可兑换永盛成购物卡</item>
+        <!----><item>店内消费双倍积分 可兑包百购物卡</item>
+    </string-array>
+
+    <string-array name="card_bj_gw_dess">
+        <!----><item>金卡</item>
+        <!----><item>金卡</item>
+        <!----><item>金卡</item>
+        <!----><item>餐饮、百货、住宿三类消费3倍积分</item>
+        <!----> <item>金卡</item>
+        <!----> <item>金卡</item>
+        <!----><item>金卡</item>
+    </string-array>
+
+    <string-array name="card_gd_gw_dess">
+        <!----><item>味千拉面满88立减35 </item>
+        <!----><item>无限次使用机场贵宾厅服务</item>
+    </string-array>
+
+    <string-array name="card_gf_gw_dess">
+        <!----><item>透现/分期享5倍积分</item>
+        <!----><item>7元起预订运动场地 新品5折秒杀</item>
+        <!----><item>自选商户三倍积分 自选保险赠送</item>
+        <!----><item>100个集分宝价值¥1元</item>
+        <!----><item>加油可享5倍积分或1%返现</item>
+        <!----><item>积分可抵扣联通3G/4G套餐</item>
+        <!----><item>专享低至5折万宁会员价商品</item>
+        <!----><item>自助渠道分期独享三期手续费优惠</item>
+        <!----><item>积分自由换礼或折抵欠款</item>
+        <!----><item>赠送宠物责任保险和宠物健康体检</item>
+        <!----><item>唯品会购物全场9.5折</item>
+        <!----><item>加油3%现金返还保险额外补贴</item>
+        <!----><item>银泰百货购物VIP折上返现2%</item>
+        <!----><item>消费积分每满1万分捐赠12.5元</item>
+        <!----><item>10倍积分奖励 即领即换</item>
+    </string-array>
+
+    <string-array name="card_gz_gw_dess">
+        <item>可在海外近104个国家和地区刷卡消费</item>
+        <item>免货币转换费及境外透支取现手续费</item>
+    </string-array>
+
+    <string-array name="card_jt_gw_dess">
+        <item>店内消费双倍积分,积分抵现最高可达1％</item>
+        <item>境内外消费后都可人民币还款</item>
+        <item>店内消费2倍会员积分</item>
+        <item>享受永达店汽车服务折扣优惠</item>
+        <item>享受房价95折 餐饮88折</item>
+        <item>享苏宁"阳光会员"特价商品</item>
+        <item>每200交行积分可抵1元店内消费</item>
+        <item>店内消费双倍积分 积分400：1抵刷卡金</item>
+        <item>金鹰全国连锁店消费专享8.8折优惠</item>
+        <item>店内消费每450分可抵3元</item>
+        <item>房费9折餐饮88折 店内消费双倍积分</item>
+        <item>购买指定商品9.5折</item>
+        <item>享店内商品会员价及专属优惠活动</item>
+        <item>有市内公共交通卡功能</item>
+    </string-array>
+
+    <string-array name="card_ms_gw_dess">
+        <item>活动合作商户享优惠 每周日刷卡消费双倍积分</item>
+        <item>享机票、酒店优惠服务 获汽车救援服务</item>
+        <item>有机会获得加油金，现办卡可免费洗车</item>
+        <item>每周四刷卡消费双倍积分</item>
+        <item>活动合作商户享优惠 每周日刷卡消费双倍积分</item>
+        <item>免外币交易手续费 运通渠道取现手续费</item>
+        <item>酒店用餐、住宿优享折扣</item>
+    </string-array>
+
+    <string-array name="card_pa_gw_dess">
+        <item>赠最高达50万元居家、出行意外保障险</item>
+        <item>最高110万元全车人员意外保障</item>
+        <item>赠最高达50万元居家、出行意外保障险</item>
+        <item>每月赠满百减十抵用券、免邮券</item>
+    </string-array>
+
+    <string-array name="card_pf_gw_dess">
+        <item>5倍积分 专享宁泽涛周边好礼</item>
+        <item>24小时无限次道路紧急救援</item>
+        <item>五星级酒店自助餐买一赠一</item>
+    </string-array>
+
+    <string-array name="card_sh_gw_dess">
+        <item>享店内消费返利、红利价格等优惠</item>
+        <item>刷卡消费可永久享受红利积分</item>
+        <item>最高800万元交通工具意外险</item>
+        <item>享高端酒店、餐饮、珠宝、美容等折扣优惠</item>
+        <item>支付宝快捷支付时积分直抵消费额</item>
+        <item>支付宝快捷支付时积分直抵消费额</item>
+        <item>银河资本内参、量身定制投资交易程序</item>
+        <item>0货币兑换手续费 畅享海外商户消费</item>
+        <item>享银泰百货会员优惠待遇</item>
+        <item>面向年轻时尚女性 享久尚网全单75折</item>
+    </string-array>
+
+    <string-array name="card_xy_gw_dess">
+        <item>附带专属星座小卡</item>
+        <item>加菲猫形象做卡面 更可享汽车租赁8.8折</item>
+        <item>享受免息分期购物计划</item>
+        <item>积分兑换人民币</item>
+        <item>最高1000万公共交通工具意外险</item>
+        <item>首年刷卡满3万赠1吨碳减排量</item>
+        <item>00支付宝积分=1元人民币</item>
+        <item>免收国外交易汇兑手续费</item>
+    </string-array>
+
+    <string-array name="card_zx_gw_dess">
+        <item>积分可兑3000多种礼品 还可兑航空里程</item>
+        <item> 周三、六指定美食门店5折优惠</item>
+        <item> 网络交易计积分 专属QQ号码印在卡面</item>
+        <item>积分换钢镚，1个钢镚抵1元现金</item>
+        <item>消费或提现1元可积2分</item>
+        <item>网络交易享双倍积分</item>
+        <item>享最高3万女性健康险</item>
+        <item>消费8元积1彩贝 网上交易计积分</item>
+        <item>支付宝快捷交易最高享10倍积分</item>
+        <item>享高尔夫全运动体验、私人医护等权益</item>
+        <item>网络交易计积分 QQ会员享双倍积分</item>
+        <item>账单月交易RMB800元累计1顺丰金</item>
+        <item>享最高10万女性健康险、免费美容SPA等</item>
+        <item>首张车险联名卡 购天安保险享会员折扣</item>
+        <item>酒店房价专属85折</item>
+        <item>开卡即获20%的乘车金返还</item>
+        <item>境外消费3倍积分 免1.5%货币兑换手续费</item>
+        <item>交易、还款计积分可兑好礼</item>
+    </string-array>
+
+    <string-array name="card_zg_gw_dess">
+        <item>免收货币兑换手续费 境外消费5%返现</item>
+        <item>东京塔等10塔免费登塔</item>
+        <item>免收货币兑换手续费 境外消费5%返现</item>
+        <item>境外消费最高10%返现 免货币转换费</item>
+    </string-array>
+
+    <string-array name="card_hx_gw_dess">
+        <item>兑换支付宝积分，指定场景直抵现金</item>
+        <item>超低还款，低至5％</item>
+        <item>超长120小时失卡保障 最高保障3万元</item>
+        <item>优雅外观设计 享最高20万失卡保障</item>
+        <item>尊享双倍商旅金回馈 1元商旅金抵1元</item>
+        <item>享120小时超长失卡保障</item>
+    </string-array>
+
+    <string-array name="card_zd_gw_dess">
+        <item>刷卡3倍积分 网购计积分</item>
+    </string-array>
+
+    <string-array name="card_hq_gw_dess">
+        <item>自选消费类别尽享5倍积分</item>
+        <item>年费无减免</item>
+    </string-array>
+
+
+
+</resources>

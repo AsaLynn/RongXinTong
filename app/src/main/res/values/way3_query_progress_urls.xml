@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+    <string-array name="query_progress_urls">
+        <item>https://personalbank.cib.com.cn/pers/creditCard/outer/querySchedule.do</item>
+        <item>https://xyk.cebbank.com/home/fz/card-app-status.htm</item>
+        <item>https://creditcardapp.bankcomm.com/member/apply/status/preinquiry.html</item>
+        <item>https://creditcard.ecitic.com/cardbank/MainService?dse_operationName=pb0102_dispatchSrvOp&amp;switchState=4</item>
+        <item>https://creditcard.pingan.com.cn/financing/creditCardPublic.do;JSESSIONIDCC=XnmLMTBpGKthsK3rMn3pd5JCL7wVMftSq9GgXm1vpfMLVQ2Vxprb!-1964693044</item>
+        <item>https://ebanks.cgbchina.com.cn/channelsLink/applyStatusQuery.do</item>
+        <item>https://eapply.abchina.com/onlinetrade/CreditcardsInfo/CreditSearch</item>
+        <item>http://www.spdbccc.com.cn/spdb/cupd/applyProgress.do?method=index</item>
+        <item>https://www.citibank.com.cn/CNGCB/ICARD/appsta/showNext.do?JFP_TOKEN=MN9EJ9Q5</item>
+        <item>http://creditcard.hxb.com.cn/card/cn/index/list.shtml</item>
+        <item>http://cc.cmbchina.com/common/schedule.htm</item>
+        <item>http://creditcard.cmbc.com.cn/</item>
+        <item>http://www.boc.cn/bcservice/</item>
+        <item>https://mybank.icbc.com.cn/icbc/newperbank/perbank3/frame/frame_index.jsp</item>
+        <item>http://creditcard.ccb.com/cn/creditcard/apply_process2.html</item>
+        <!--<item>https://ebanks.bankofshanghai.com/pweb/LogoutCreditApplyProQryPre.do?_locale=zh_CN</item>-->
+        <item>https://card.bankofbeijing.com.cn/OAM_BJ/apply.do</item>
+        <item>https://ccibanking.standardchartered.com.cn/onlinebank/apply.do?pid=</item>
+        <item>http://creditcard.gzcb.com.cn/gzcb_web/transactionApply.action</item>
+        <item>https://pbank.psbc.com/pweb/CreditApplyProQryOutPre.do?_locale=zh_CN&amp;BankId=9999</item>
+    </string-array>
+</resources>

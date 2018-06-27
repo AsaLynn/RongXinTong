@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+    <string-array name="latest_cut_names">
+        <item>你我贷</item>
+        <item>拍拍贷</item>
+        <item>人人聚财网</item>
+        <item>证贷</item>
+        <item>速可贷</item>
+        <item>指尖贷:</item>
+        <item>现金巴士</item>
+        <item>趣分期</item>
+        <item>优分期</item>
+        <item>分期乐</item>
+        <item>极速贷</item>
+        <item>招联好期贷</item>
+        <item>如意贷</item>
+        <item>好又贷</item>
+        <item>名校贷</item>
+        <item>我爱卡</item>
+        <item>99贷贷款助手</item>
+        <item>亲亲小贷</item>
+        <item>金海贷</item>
+        <item>温州贷</item>
+        <item>恒大 e 贷</item>
+        <item>快快贷</item>
+        <item>主流贷</item>
+        <item>.我的单，我的贷</item>
+        <item>招商贷</item>
+        <item>好车贷</item>
+        <item>有人贷</item>
+        <item>鲁班贷</item>
+        <item>车速贷</item>
+        <item>乐乐贷</item>
+        <item>民信贷</item>
+        <item>众联贷</item>
+        <item>融途e贷</item>
+        <item>快信贷</item>
+        <item>翼龙贷</item>
+        <item>开心贷</item>
+        <item>多多理财</item>
+        <item>陆金所</item>
+        <item>网贷之家</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_way_names">
+        <item>快速通道</item>
+        <item>网络贷款</item>
+        <item>最新口子</item>
+        <item>查询进度</item>
+        <item>一键提额</item>
+        <item>银行电话</item>
+        <item>售后服务</item>
+        <item>常见问题</item>
+        <item>案例分析</item>
+    </string-array>
+</resources>
